@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Layout>
+	<Files>
+		<File Name="teste.cpp" Top="Yes" Tabpos="1" TopLine="16">
+			<Cursor Line="796" Column="41"/>
+		</File>
+		<File Name="tgaload.h" Top="No" Tabpos="2" TopLine="1">
+			<Cursor Line="1" Column="1"/>
+		</File>
+		<File Name="tgaload.cpp" Top="No" Tabpos="3" TopLine="297">
+			<Cursor Line="310" Column="1"/>
+		</File>
+	</Files>
+</Layout>
